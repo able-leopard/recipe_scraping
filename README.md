@@ -28,3 +28,11 @@ sudo docker run -it scraping_recipes
 python -m core_code.run sys.argv[1] sys.argv[2]
 ```
 - to run the actual file
+
+
+
+**Remember to add Geckodriver in your PATH**
+I used Ubuntu and this linked was able to help me:
+- https://askubuntu.com/questions/870530/how-to-install-geckodriver-in-ubuntu
+here is a good article for Mac:
+- https://medium.com/dropout-analytics/selenium-and-geckodriver-on-mac-b411dbfe61bc
