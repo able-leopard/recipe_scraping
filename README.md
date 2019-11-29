@@ -31,8 +31,8 @@ python -m core_code.run sys.argv[1] sys.argv[2]
 
 
 
-**Remember to add Geckodriver in your PATH**
-- I used Ubuntu and this linked was able to help me:
+**Remember to add Geckodriver in your PATH (Need this to run Selenium**
+I used Ubuntu and this linked was able to help me:
 - https://askubuntu.com/questions/870530/how-to-install-geckodriver-in-ubuntu
-- here is a good article for Mac:
+Here is a good article for Mac:
 - https://medium.com/dropout-analytics/selenium-and-geckodriver-on-mac-b411dbfe61bc
