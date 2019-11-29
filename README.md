@@ -47,4 +47,4 @@ I used Ubuntu and this linked was able to help me:
 Here is a good article for Mac:
 - https://medium.com/dropout-analytics/selenium-and-geckodriver-on-mac-b411dbfe61bc
 
-![](recipe_scraping_GIF.mp4)
+![](recipe_scraping_GIF_downsized.gif)
