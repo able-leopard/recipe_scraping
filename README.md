@@ -1,5 +1,8 @@
 # recipe_scraping
 
+A web crawler that is able to scrape over 10 recipe websites for over 200,000 recipes.
+
+
 **To run on virtual environment**
 
 ```
