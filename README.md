@@ -9,7 +9,7 @@ Each recipe saves
 - Cooking instructions
 - Photo if available
 
-**To run on virtual environment**
+**To set up virtual environment**
 
 ```
 pip install requirements.txt
