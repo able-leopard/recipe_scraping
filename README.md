@@ -46,3 +46,5 @@ I used Ubuntu and this linked was able to help me:
 - https://askubuntu.com/questions/870530/how-to-install-geckodriver-in-ubuntu
 Here is a good article for Mac:
 - https://medium.com/dropout-analytics/selenium-and-geckodriver-on-mac-b411dbfe61bc
+
+![](Animated GIF-downsized_large.gif)
