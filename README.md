@@ -2,6 +2,12 @@
 
 A web crawler that is able to scrape over 10 recipe websites for over 200,000 recipes.
 
+Each recipe saves
+- Recipe title
+- Serving size
+- Ingredients
+- Cooking instructions
+- Photo if available
 
 **To run on virtual environment**
 
