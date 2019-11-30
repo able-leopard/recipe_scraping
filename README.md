@@ -12,6 +12,9 @@ Each recipe saves
 **To set up virtual environment**
 
 ```
+git clone https://github.com/able-leopard/recipe_scraping.git
+```
+```
 pip install requirements.txt
 ```
 ```
@@ -22,6 +25,9 @@ run.py sys.argv[1] sys.argv[2]
 - sys.argv[2] is the directory that you want to store your recipes in.
 
 **To run on Docker**
+```
+git clone https://github.com/able-leopard/recipe_scraping.git
+```
 ```
 sudo docker build -t scraping_recipes .
 ```
