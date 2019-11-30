@@ -9,7 +9,7 @@ Each recipe saves
 - Cooking instructions
 - Photo if available
 
-**To set up virtual environment**
+**To set up virtual environment and run scraper**
 
 ```
 git clone https://github.com/able-leopard/recipe_scraping.git
@@ -24,7 +24,7 @@ run.py sys.argv[1] sys.argv[2]
 - sys.argv[1] is the site you want to parse
 - sys.argv[2] is the directory that you want to store your recipes in.
 
-**To run on Docker**
+**To run scraper directly on Docker**
 ```
 git clone https://github.com/able-leopard/recipe_scraping.git
 ```
