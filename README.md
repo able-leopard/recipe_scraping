@@ -57,4 +57,4 @@ Here is a good article for Mac:
 
 ![](recipe_scraping_GIF_downsized_large.gif)
 
-Longer YouTube video here: https://www.youtube.com/watch?v=2sBrkzGQQlU&feature=youtu.be
+Extended video demo here: https://www.youtube.com/watch?v=2sBrkzGQQlU&feature=youtu.be
