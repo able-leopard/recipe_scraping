@@ -1,7 +1,7 @@
 jupyter==1.0.0
 beautifulsoup4==4.7.1
 selenium==3.4.1
-urllib3==1.25.2
+urllib3==1.26.5
 requests==2.21.0
 jsonschema==3.0.1
 requests==2.21.0
